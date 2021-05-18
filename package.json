@@ -1,0 +1,27 @@
+{
+  "name": "BakingBlog",
+  "version": "1.0.0",
+  "description": "Repo to build personal baking blog",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angelalim1010/BakingBlog.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/angelalim1010/BakingBlog/issues"
+  },
+  "homepage": "https://github.com/angelalim1010/BakingBlog#readme",
+  "dependencies": {
+    "@testing-library/jest-dom": "^5.12.0",
+    "@testing-library/react": "^11.2.7",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "web-vitals": "^1.1.2"
+  }
+}
